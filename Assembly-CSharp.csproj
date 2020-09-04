@@ -58,8 +58,9 @@
     <Compile Include="Assets\scripts\SpinObstacle.cs" />
     <Compile Include="Assets\scripts\Platform.cs" />
     <Compile Include="Assets\scripts\CameraController.cs" />
-    <Compile Include="Assets\scripts\PlayerController.cs" />
     <Compile Include="Assets\scripts\ScoreManager.cs" />
+    <Compile Include="Assets\scripts\PlayerController.cs" />
+    <Compile Include="Assets\scripts\SoundPlayer.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -14,10 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Scenes/SampleScene.unity
+    - Assets/material/obstacle.mat
+    - Assets/material/obstacle.mat.meta
+    - Assets/scripts/PlayerController.cs
     - 
-    m_Values: 0101
-  RevisionSummary: added moving platform and collectables
+    m_Values: 01010101
+  RevisionSummary: added particle and sound
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
