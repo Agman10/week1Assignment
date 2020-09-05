@@ -26,5 +26,9 @@ public class SpinObstacle : MonoBehaviour
         //rb.AddForce.Rotate(new Vector3(0, 0, spinSpeed));
         //rb.AddForce(transform.forward * thrust);
         //rb.AddForce(0, 0, thrust, ForceMode.Impulse);
+
+
+        //Quaternion newRotation = Quaternion.RotateTowards(rb.rotation, Quaternion.Euler(new Vector3(0, 0, spinSpeed)));
+        //rb.MoveRotation(newRotation);
     }
 }

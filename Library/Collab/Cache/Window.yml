@@ -14,12 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/material/obstacle.mat
-    - Assets/material/obstacle.mat.meta
-    - Assets/scripts/PlayerController.cs
+    - Assets/scripts/SpinObstacle.cs
     - 
-    m_Values: 01010101
-  RevisionSummary: added particle and sound
+    m_Values: 0000
+  RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
